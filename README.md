@@ -1,8 +1,8 @@
 # elys-network-legal
 
-Elys Network’s official legal documentation, including:
+Elys Network’s official legal documentation.
 
-- **[Business Source License](business-source-license.md)** – Terms for code usage, production restrictions, and IP ownership.
-- **[Intercompany Services Agreement](intercompany-services-agreement.md)** – Defines operational roles, governance responsibilities, and structure between Panama and Singapore entities.
+- [Business Source License](./business-source-license.md) — Defines licensing terms for the Elys Network Protocol, including usage restrictions, IP ownership, and governance structure.
 
-This repository serves as the canonical reference for Elys Network’s legal framework.
+This repository serves as the canonical reference for Elys Network’s public licensing framework.  
+Intercompany agreements are maintained in a separate private repository.
